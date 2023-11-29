@@ -32,7 +32,51 @@
 - 총시상팀: 8개팀 / 총상금: 500만원
 
 <table class="tbl_prize">
-  <원
+  <tr>
+    <th style="text-align:left;width:50%">시상</th>
+    <th style="text-align:center;width:15%">시상 수</th>
+        <th style="text-align:left;width:35%">상금</th>
+  </tr>
+  <tr>
+    <td>
+      <strong>대상</strong><br>
+    </td>
+    <td> 1팀 </td>
+    <td align=center> 200만원 </td>
+  </tr>
+ <tr>
+    <td>
+      <strong>최우수상</strong><br>
+    </td>
+        <td align=center> 1팀 </td>
+       <td style="text-align:center"> 100만원</td>
+   </tr>
+      <tr>
+    <td>
+      <strong>우수상</strong><br>
+    </td>
+        <td align=center> 2팀 </td>
+    <td style="text-align:center">각 50만원</td>
+   </tr>
+   <tr>
+    <td>
+      <strong>입선</strong><br>
+    </td>
+        <td align=center> 4팀 </td>
+    <td style="text-align:center">각 25만원</td>
+   </tr>
+</table>
+
+## 경진대회 일정
+- 참가신청: 2023년 11월 30일(금) ~ 12월 12일(화)
+- 대회참가: 2023년 12월 06일(수) ~ 12월 12일(화) 18:00까지
+- 심사기간: 2023년 12월 14일(목) ~ 12월 15일(금)
+- 결과발표: 2023년 121월 16일(토)
+- 시상식: 2023년 12월 21일(수) 예정
+
+## 추진
+- 주관: 서울대학교 치과병원
+- 후원: 한국지능정보사회진흥원
 
 ## 문의 및 FAQ
 ISSUE 페이지에 문의글을 남가시면 담당자가 답변드립니다.
