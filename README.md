@@ -1,4 +1,4 @@
-![2023 헬스케어 AI 경진대회(포스터]([https://user-images.githubusercontent.com/92664643/139572402-ae0643f0-e4cc-4e7f-9332-b8f3ac195bbb.jpg](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
+![2023 헬스케어 AI 경진대회(포스터](https://user-images.githubusercontent.com/92664643/139572402-ae0643f0-e4cc-4e7f-9332-b8f3ac195bbb.jpg](https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)https://raw.githubusercontent.com/bab-korea/healthcare-ai-contest/main/headlthcare_ai_contest_poster.png)
 
 # 2023 구강이미지 합성데이터 헬스케어 AI 경진대회
 
